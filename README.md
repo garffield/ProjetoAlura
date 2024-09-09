@@ -1,4 +1,4 @@
-##Projeto feito durante a IMERSÃO DEV ALURA
+## Projeto feito durante a IMERSÃO DEV ALURA
 
 ## Enciclopédia Pokémon: Sua jornada Pokémon começa aqui! ⚡
 
@@ -35,11 +35,4 @@ Se você quiser ajudar a melhorar essa Pokédex, fique à vontade para abrir um 
 
 **#Pokémon #JavaScript #HTML #CSS #Desenvolvedor #Programação**
 
-**Observação:** Adapte este README para o seu projeto específico, adicionando mais detalhes sobre a sua aplicação, como funcionalidades extras, desafios encontrados, etc.
 
-**Dicas para um README mais completo:**
-
-* **Imagens:** Adicione imagens ou GIFs para ilustrar o funcionamento da sua aplicação.
-* **Vídeos:** Crie um vídeo demonstrando como usar a aplicação.
-* **Licença:** Especifique a licença do seu projeto.
-* **Agradecimentos:** Agradeça a quem te ajudou.
